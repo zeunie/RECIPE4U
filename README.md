@@ -4,6 +4,7 @@ This is an official repository of [RECIPE4U: Student-ChatGPT Interaction Dataset
 ## Dataset 
 
 ### Attributes
+
 | Column Name    | Type    | Description                                                                                                                                    |  
 |:--------------:|:-------:|:-----------------------------------------------------------------------------------------------------------------------------------------------|  
 | sample_id      | String  | A unique identifier with the composition of student_id, course, week, session, and idx.                                                        |  
@@ -22,6 +23,7 @@ This is an official repository of [RECIPE4U: Student-ChatGPT Interaction Dataset
 | essay          | String  | A student's written essay.                                                                                                                     |  
 
 ### Statistics
+
 |                       | # of Samples   |   
 |:---------------------:|:--------------:|  
 | # of dialogues        | 504            |  
