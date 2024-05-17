@@ -33,7 +33,7 @@ This is an official repository of [RECIPE4U: Student-ChatGPT Interaction Dataset
 English, Korean  
 
 ## How to download? 
-Please submit the [consent form](https://forms.gle/4p2tq93prsdH4Dc5A). After reviewing your consent form, we will send you the dataset link soon through email.
+- Please submit the [consent form](https://forms.gle/4p2tq93prsdH4Dc5A). After reviewing your consent form, we will send you the dataset link soon through email.
 
 ## Ethical Consideration
 - We do not condone any malicious use of our dataset. To prevent the potential risk associated with student-written essays, only researchers or practitioners who submit a consent form can access our data. RECIPE4U is available for **research purposes only**.
