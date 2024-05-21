@@ -40,3 +40,17 @@ English, Korean
 ## Ethical Consideration
 - We do not condone any malicious use of our dataset. To prevent the potential risk associated with student-written essays, only researchers or practitioners who submit a consent form can access our data. RECIPE4U is available for **research purposes only**.
 
+## BibTex
+```
+@inproceedings{han-etal-2024-recipe4u-student,
+    title = "{RECIPE}4{U}: Student-{C}hat{GPT} Interaction Dataset in {EFL} Writing Education",
+    author = "Han, Jieun and Yoo, Haneul and Myung, Junho and Kim, Minsun and Lee, Tak Yeon and Ahn, So-Yeon and Oh, Alice",
+    booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
+    month = may,
+    year = "2024",
+    address = "Torino, Italy",
+    publisher = "ELRA and ICCL",
+    url = "https://aclanthology.org/2024.lrec-main.1193",
+    pages = "13666--13676",
+}
+```
